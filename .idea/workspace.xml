@@ -35,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/Android/AndroidSpace" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../other" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588173218952</updated>
       <workItem from="1588173221517" duration="103000" />
-      <workItem from="1588173349814" duration="1160000" />
+      <workItem from="1588173349814" duration="1476000" />
     </task>
     <servers />
   </component>
@@ -57,14 +57,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="129" y="55" key="MergeDialog" timestamp="1588173518922">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588175279489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1588173518922" />
-    <state x="392" y="79" key="MultipleFileMergeDialog" timestamp="1588173518938">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588175279489" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1588175367533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="392" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1588173518938" />
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1588175367533" />
+    <state x="392" y="79" key="MultipleFileMergeDialog" timestamp="1588175367546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1588175367546" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1588173324667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
